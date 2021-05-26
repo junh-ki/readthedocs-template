@@ -3,18 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to doctut's documentation!
-==================================
+Welcome to your_project_name's documentation!
+=============================================
+
+Contents
+########
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Chapter 1 <contents/chapter_1>
+   Chapter 2 <contents/chapter_2>
+   Chapter 3 <contents/chapter_3>
